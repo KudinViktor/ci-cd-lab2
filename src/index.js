@@ -1,0 +1,1 @@
+console.log("CI/CD Lab is running");
